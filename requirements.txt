@@ -1,0 +1,9 @@
+torch>=1.8
+gymnasium[box2d]  # environment used
+numpy>=1.21
+matplotlib>=3.4
+seaborn>=0.11
+imageio>=2.9
+moviepy>=1.0
+jupyterlab  # for running notebooks
+tqdm  # for progress bars during training
