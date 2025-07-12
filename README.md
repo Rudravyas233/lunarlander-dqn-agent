@@ -242,14 +242,7 @@ imageio
 moviepy
 ```
 
----
-
-## 📜 License
-MIT License
-
----
 
 ## 👤 Author
-**Rudra Vyas**  
-B.Tech in ICT, PDEU  
+**Rudra Vyas**    
 🔗 GitHub: [@Rudravyas233](https://github.com/Rudravyas233)
